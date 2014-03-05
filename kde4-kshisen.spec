@@ -6,12 +6,12 @@ Summary:	KDE Shisen-Sho
 Summary(pl.UTF-8):	Shisen-Sho dla KDE
 Summary(pt_BR.UTF-8):	Jogo Shisen para o KDE
 Name:		kde4-%{orgname}
-Version:	4.12.2
+Version:	4.12.3
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	99fd50e0ce1d65cbff1fbd340ea02e0f
+# Source0-md5:	d3ae763514b3092e9acf3ba9a4dd5d93
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
